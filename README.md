@@ -9,7 +9,7 @@ This repository documents my journey and progression in Java Backend Development
 ## 🛠️ Tech Stack
 * **Core Language:** Java 17+
 * **Frameworks:** Spring Boot, Spring Data JPA
-* **Databases:** MySQL / PostgreSQL / Oracle SQL [Alege ce ai folosit]
+* **Databases:** MySQL 
 * **Build Tools:** Maven / Gradle
 * **IDE:** IntelliJ IDEA Ultimate
 
