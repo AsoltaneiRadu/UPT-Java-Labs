@@ -1,0 +1,52 @@
+﻿{
+  "produse": [
+    {
+      "id": 1,
+      "tip": "carte",
+      "nume": "Clean Code",
+      "pret": 120.5,
+      "autor": "Robert C. Martin",
+      "anAparitie": 2008
+    },
+    {
+      "id": 2,
+      "tip": "carte",
+      "nume": "The Pragmatic Programmer",
+      "pret": 145.0,
+      "autor": "Andrew Hunt",
+      "anAparitie": 1999
+    },
+    {
+      "id": 3,
+      "tip": "joc",
+      "nume": "The Witcher 3",
+      "pret": 200.0,
+      "platforma": "PC",
+      "gen": "RPG"
+    },
+    {
+      "id": 4,
+      "tip": "joc",
+      "nume": "God of War",
+      "pret": 250.0,
+      "platforma": "PLAYSTATION",
+      "gen": "Action"
+    },
+    {
+      "id": 5,
+      "tip": "carte",
+      "nume": "1984",
+      "pret": 80.0,
+      "autor": "George Orwell",
+      "anAparitie": 1949
+    },
+    {
+      "id": 6,
+      "tip": "joc",
+      "nume": "Halo Infinite",
+      "pret": 230.0,
+      "platforma": "XBOX",
+      "gen": "Shooter"
+    }
+  ]
+}
